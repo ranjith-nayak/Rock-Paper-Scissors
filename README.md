@@ -1,4 +1,4 @@
-# ✊🖐️✌️ Rock Paper Scissors Game
+#  Rock Paper Scissors Game ✊🖐️✌️
 
 ## 📌 About
 The **Rock Paper Scissors Game** is a simple and fun web-based game built using **HTML, CSS, and JavaScript**. It allows users to play the classic Rock Paper Scissors game against the computer. The game is interactive, user-friendly, and provides instant results based on the user's choice and the computer's random selection.
